@@ -1,4 +1,4 @@
-Bem-vindo(a) ao perfil do Lilo :grin:
+Bem-vindo(a) ao perfil do Lilo
  <div>
    <a href="https://github.com/LiloAprendiz">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGoat333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
